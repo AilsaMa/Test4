@@ -1,4 +1,4 @@
-package com.mj.springbootgateway;
+package com.mj.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
